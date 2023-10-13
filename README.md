@@ -1,8 +1,8 @@
 # **GDSC University Of Yaounde 1 Socials**
 
-+-----------------------------+<br>
-| &ThickSpace; Version: [*Français (Fr)*](./README.fr.md) 🇫🇷 &ThickSpace;&ThickSpace; |<br>
-+-----------------------------+
++-------------------------------+<br>
+&ThinSpace;| &ThickSpace; Version: <kbd>[<img title="Française" alt="Française" src="https://th.bing.com/th/id/OIP.xryrkEIZjlg6rYj1BBT1LQAAAA?pid=ImgDet&rs=1" width="22">](./README.fr.md)</kbd>[*Français (Fr)*](./README.fr.md) &ThickSpace; |<br>
++-------------------------------+
 
 This is a repository containing the social links of the community members of the Google Developer Student Clubs of the University Of Yaounde 1.
 
@@ -72,6 +72,14 @@ Come back to our github repo here and do a pull request.
 ## Submission
 
 To submit your task, create a pull request to this repository. You can find more information about how to create a pull request [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+- Create a new pull request from your forked repository (Click the `New Pull Request` tab located at the top of your repo). Make sure to compare across forks, then select this repository as target
+
+- Add reviewers(optional)
+
+- Wait for your pull request review and merge approval!
+
+- **Please STAR this repository** if you had fun!
 
 - Hurraayyy!! ... You're Done!
 

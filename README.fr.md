@@ -1,8 +1,8 @@
 # **GDSC Université de Yaoundé 1 Social**
 
-+------------------------------+<br>
-| &ThickSpace; Version : [*English (En)*](./README.md) 🇫🇷 &ThickSpace;&ThickSpace; |<br>
-+------------------------------+
++-------------------------------+<br>
+&ThinSpace;| &ThickSpace; Version: <kbd>[<img title="English" alt="Française" src="https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/US@2x.png?raw=true" width="22">](./README.fr.md)</kbd> [*English (En)*](./README.fr.md) &ThickSpace; |<br>
++-------------------------------+
 
 Il s'agit d'un référentiel contenant les liens sociaux des membres de la communauté des Clubs Étudiants Développeurs Google de l'Université de Yaoundé 1.
 
@@ -36,10 +36,13 @@ Créez une **branche** pour la tâche comme suit :
 
 Après cela, suivez les étapes ci-dessous. <br>
 **Étape 1** : Rendez-vous sur nos comptes Twitter, linkedIn, GitHub et tout autre compte social de la tournée <br>
+
 **Étape 2** : Copiez les liens vers ces comptes <br>
+
 **Étape 3**:
 - Effectuez vos modifications. Créez un fichier dans [archives/2023](./archives/2023/) (nom du fichier = \<**votre-github-username**\>.json)
 - Ajoutez vos coordonnées en suivant l'exemple ci-dessous. Vous ne pourrez peut-être pas ajouter toutes sortes de réseaux sociaux, mais ajoutez ce que vous pouvez.
+
 - Respecter le formatage Json
   ```json
   [
@@ -70,7 +73,15 @@ Revenez à notre dépôt github ici et faites une pull request.
 
 ## Soumission
 
-Pour soumettre votre tâche, créez une pull request vers ce référentiel. Vous pouvez trouver plus d'informations sur la façon de créer une pull request [ici](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) .
+Pour soumettre votre tâche, créez une pull request vers ce référentiel. Vous pouvez trouver plus d'informations sur la façon de créer une pull request [ici](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+- Créez une nouvelle pull request à partir de votre référentiel forké (cliquez sur l'onglet « Nouvelle Pull Request » situé en haut de votre dépôt). Assurez-vous de comparer entre les forks, puis sélectionnez ce référentiel comme cible
+
+- Ajouter des réviseurs (facultatif)
+
+- Attendez l'examen de votre demande de tirage et l'approbation de la fusion !
+
+- **Veuillez STAR ce référentiel** si vous vous êtes amusé !
 
 - Hourraayyy !! ... Vous avez terminé!
 
