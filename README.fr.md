@@ -1,7 +1,7 @@
 # **GDSC Université de Yaoundé 1 Social**
 
 +------------------------------+<br>
-| &ThickSpace; Version : [*Français (Fr)*](./REDME.fr.md) 🇫🇷 &ThickSpace;&ThickSpace; |<br>
+| &ThickSpace; Version : [*English (En)*](./README.md) 🇫🇷 &ThickSpace;&ThickSpace; |<br>
 +------------------------------+
 
 Il s'agit d'un référentiel contenant les liens sociaux des membres de la communauté des Clubs Étudiants Développeurs Google de l'Université de Yaoundé 1.

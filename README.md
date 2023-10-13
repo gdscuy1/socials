@@ -1,7 +1,7 @@
 # **GDSC University Of Yaounde 1 Socials**
 
 +-----------------------------+<br>
-| &ThickSpace; Version: [*Français (Fr)*](./REDME.fr.md) 🇫🇷 &ThickSpace;&ThickSpace; |<br>
+| &ThickSpace; Version: [*Français (Fr)*](./README.fr.md) 🇫🇷 &ThickSpace;&ThickSpace; |<br>
 +-----------------------------+
 
 This is a repository containing the social links of the community members of the Google Developer Student Clubs of the University Of Yaounde 1.
