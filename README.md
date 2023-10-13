@@ -58,11 +58,11 @@ After that, follow the steps below. <br>
 Step 4: Commit the change made and push
 
 ```
-   git add <your-github-username.json>
+   git add .
    
-   git commit -am "feat: add <username> socials"
+   git commit -m "feat: added <username> socials"
 
-   git push origin HEAD
+   git push origin mySocials
 ```
 
 Come back to our github repo here and do a pull request.
