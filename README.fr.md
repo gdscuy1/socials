@@ -31,7 +31,7 @@ Prérequis **Fork et Rendre le projet disponible localement**. Exécutez la comm
 Créez une **branche** pour la tâche comme suit :
 
 ```
-    git brnach -M mySocials
+    git branch -M mySocials
 
     git checkout mySocials
 ```
