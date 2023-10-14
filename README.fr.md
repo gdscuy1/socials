@@ -1,12 +1,14 @@
 # **GDSC Université de Yaoundé 1 Social**
 
 +-------------------------------+<br>
-&ThinSpace;| &ThickSpace; Version: <kbd>[<img title="English" alt="Française" src="https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/US@2x.png?raw=true" width="22">](./README.fr.md)</kbd> [*English (En)*](./README.fr.md) &ThickSpace; |<br>
+&ThinSpace;| &ThickSpace; Version: <kbd>[<img title="English" alt="Française" src="https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/US@2x.png?raw=true" width="22">](./README.md)</kbd> [*English (En)*](./README.md) &ThickSpace; |<br>
 +-------------------------------+
 
 Il s'agit d'un référentiel contenant les liens sociaux des membres de la communauté des Clubs Étudiants Développeurs Google de l'Université de Yaoundé 1.
 
 # 🎃 HacktoberFest 2023 🎃
+
+![Hacktoberfest2023](https://external-preview.redd.it/hacktoberfest-2023-coming-soon-celebrating-ten-years-of-v0-7iAxY9XdcB1RlomtBWqvtgsafP-TAHZ3h0Goveo_Zjc.jpg?auto=webp&s=a7255699d6e0a0a1a7d2cdc5f10f35cf836861e5)
 
 Si vous êtes venu ici pour le Hacktoberfest, vous êtes au bon endroit 🦇️ :
 

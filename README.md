@@ -8,6 +8,8 @@ This is a repository containing the social links of the community members of the
 
 # 🎃 HacktoberFest 2023 🎃
 
+![Hacktoberfest2023](https://external-preview.redd.it/hacktoberfest-2023-coming-soon-celebrating-ten-years-of-v0-7iAxY9XdcB1RlomtBWqvtgsafP-TAHZ3h0Goveo_Zjc.jpg?auto=webp&s=a7255699d6e0a0a1a7d2cdc5f10f35cf836861e5)
+
 If you came here for Hacktoberfest, you're in the right place 🦇️:
 
 Celebrate [Hacktoberfest](https://hacktoberfest.com/) by getting involved in the open source community by completing some tasks in this project.
