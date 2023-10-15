@@ -85,6 +85,12 @@ To submit your task, create a pull request to this repository. You can find more
 
 - Hurraayyy!! ... You're Done!
 
-## Cheers 🍻 to our contributors
+## Collaborators
 
-![Contributors](./CONTRIBUTORS.svg)
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
