@@ -53,7 +53,7 @@ Après cela, suivez les étapes ci-dessous. <br>
       "linkedIn": "https://linkedin.com/in/username",
       "github": "https://github.com/username",
       "twitter": "https://twitter.com/yokwejuste"
-      "..." : "..."
+      "...": "..."
     }
   ]
   ```
@@ -87,6 +87,12 @@ Pour soumettre votre tâche, créez une pull request vers ce référentiel. Vous
 
 - Hourraayyy !! ... Vous avez terminé!
 
-## Bravo 🍻 à nos contributeurs
+## Collaborateurs
 
-![Contributeurs](./CONTRIBUTORS.svg)
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributeurs
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
